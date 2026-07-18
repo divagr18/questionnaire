@@ -95,6 +95,9 @@ body { background: var(--paper); letter-spacing: -.006em; }
 .question-modal h2 { font-family: inherit; font-size: 1.6rem; font-weight: 640; letter-spacing: -.04em; }
 
 .slide h1 { font-family: inherit; font-weight: 580; letter-spacing: -.065em; }
+.deck .slide h1 { color: #fff; }
+.deck .slide-description { color: #c3c0cb; }
+.deck .slide-index { color: #dedbe5; }
 .slide-index { font-family: inherit; font-weight: 600; }
 .slide-end { background: var(--accent-dark); }
 
